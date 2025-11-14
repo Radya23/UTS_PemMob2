@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-SplashScreen ![SplashScreen](https://github.com/user-attachments/assets/a0cd36fa-ec73-4d9e-9c88-7f383bfc1d81)
+![SplashScreen](https://github.com/user-attachments/assets/a0cd36fa-ec73-4d9e-9c88-7f383bfc1d81)
 
 ![Login](https://github.com/user-attachments/assets/3fcb2387-8b25-4917-88a9-60cc21b3a048)
 
